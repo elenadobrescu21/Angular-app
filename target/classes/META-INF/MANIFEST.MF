@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Angular-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: elenadobrescu
+Implementation-Vendor-Id: com.elena.angular
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/Angular-app/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
